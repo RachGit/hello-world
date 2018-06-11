@@ -1,2 +1,3 @@
 # hello-world
-Hello
+Hello.
+My name is Rachel. Yay!
